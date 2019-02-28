@@ -1,0 +1,30 @@
+
+.footer{
+    height: 114px;
+    width: 923px;
+    border-top: 1px solid #eef2f2;
+    font-size: .75em;
+    color: #ababab;
+    text-align: center;
+    margin-left: 200px;
+   
+    
+}
+
+.main-footer{
+    height: 163px;
+}
+
+.main-footer p {
+    line-height: 1;
+    width:100%;
+}
+.footer a {
+    text-decoration: none;
+    color: #3d83df;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+    color: #3d83df;
+}

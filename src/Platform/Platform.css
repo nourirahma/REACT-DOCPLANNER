@@ -1,0 +1,99 @@
+
+
+.platform {
+
+    height: 620px;
+    margin: 3.125rem auto 5.5rem; 
+    background: #d8f6f6;
+    background-image: url("https://www.docplanner.com/img/logo.png");
+    background-repeat: no-repeat;
+    background-position:10px 250px;
+    background-size: cover;
+    position: relative;
+    background-size: auto;
+    display: flex;
+    overflow: hidden;
+    justify-content: space-around;
+   
+  
+
+}
+
+.titre{
+   
+    width: 451px;
+    padding: 10px;
+    height: 180px;
+   
+}
+
+.titre h1 {
+
+    text-align: left;
+}
+
+.container{
+    display: flex;
+    padding: 10px;
+    flex-wrap:wrap;
+    width: 40%;
+    height: 600px;
+    
+    
+}
+
+
+
+.container h3{
+    font-size: 1.8461538462em;
+    color: #00b39b;
+    margin: .5em 0;
+    font-weight: 300;
+    letter-spacing: .3px;
+}
+
+.container p {
+    margin: 0;
+    color: #747474;
+    text-align: center;
+    padding: 15px;
+    font-size: .8125em;
+    font-weight: 400;
+    width:200px;
+    
+}
+
+.container div:nth-child(odd){
+
+    margin-top:4px;
+}
+
+ 
+.col {
+    padding: 10px;
+    width:431px;
+    align-self: center;
+    display:flex;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 1px 4px 0 rgba(247, 244, 244, 0.05);
+    text-align: center;
+    padding: 15px;
+    font-size: .8125em;
+    flex-direction: column;
+    width: 189px;
+    height:220px ;
+    margin:20px;
+
+   
+ }
+
+ .col .image{
+
+    width:50px;
+    height: 50px;
+
+ }
+
+ 
+
